@@ -7,7 +7,6 @@ I learn by building things properly rather than copy-pasting my way through them
 **What I've built so far:**
 - **[Iron Peak Fitness](https://kyleharperdev.github.io/gym-page/)** — a responsive multi-page gym site in HTML, CSS and JavaScript, around 1,000 lines of my own CSS. I built it throughout and used AI only for a final review.
 - **[Weather dashboard](https://kylew-app.netlify.app/)** — React and TypeScript with live OpenWeatherMap data, type-checked with Zod. Built by following an in-depth tutorial to learn modern React and data-fetching patterns.
-- **[Portfolio](https://kyleharperdev.github.io/portfolio-v1/)** — HTML, CSS and Tailwind. Built with AI assistance, then customised by me until I understood every part.
 
 I'm early in this and trying to learn fast. I'm after a junior or apprentice role where I can build solid foundations alongside people who know more than I do.
 
